@@ -1,0 +1,9 @@
+SOHO Network design Project:
+Using your packet tracer:
+
+1. Configure DHCP on a SOHO router with 192.168.40/24 address.
+2. Set a scope to take care of 20 devices on the network.
+3. 5 of the devices should be able to connect wirelessly to the network.
+4. Within this pool set reservation for the first 5 addresses.
+5. Set a static allocation for the five(5) devices using the last five addresses from the pool. 
+Out of the (5) devices 2 of them should be wireless. 
